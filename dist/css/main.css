@@ -484,6 +484,10 @@ img {
     text-align: center;
 }
 
+#contact-b .captcha {
+    align-items: center;
+}
+
 #contact-c h2 {
     text-align: center;
     font-size: 4rem;
