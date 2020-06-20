@@ -509,12 +509,12 @@ img {
     line-height: 25px;
     text-align: center;
     padding: 0.5rem;
+    color: #fff;
 }
-#main-footer a {
-    color: #333;
-}
+
 #main-footer .footer-content .social .fab:hover {
     background: #ffbc00;
+    color: #333;
 }
 
 @media (max-width: 800px) {
