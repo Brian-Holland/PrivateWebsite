@@ -201,6 +201,10 @@ input[class^="btn-"]:hover {
     margin: 0;
 }
 
+.item-text-buttons {
+    margin: 0 1rem;
+}
+
 * {
     margin: 0;
     padding: 0;
