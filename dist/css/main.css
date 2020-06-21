@@ -80,7 +80,7 @@ input[class^="btn-"]:hover {
 
 .link-center {
     align-items: center;
-    display: block;
+    display: inline-block;
 }
 
 .text-center {
