@@ -258,6 +258,11 @@ img {
     text-transform: uppercase;
 }
 
+#headshot {
+    height: 250px;
+    width: 250px;
+}
+
 #main-nav {
     display: flex;
     justify-content: space-between;
