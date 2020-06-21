@@ -82,6 +82,10 @@ input[class^="btn-"]:hover {
     text-align: center;
 }
 
+.g-recaptcha {
+    display: inline-block;
+}
+
 .py-1 {
     padding: 1rem 0;
 }
