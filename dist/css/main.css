@@ -78,11 +78,6 @@ input[class^="btn-"]:hover {
     margin-bottom: 2rem;
 }
 
-.link-center {
-    align-items: center;
-    display: inline-block;
-}
-
 .text-center {
     text-align: center;
 }
