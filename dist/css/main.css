@@ -40,7 +40,6 @@
     transition: all 0.5s;
     border: none;
     cursor: pointer;
-    border-radius: 25px;
 }
 
 #btn-project:hover {
@@ -77,6 +76,10 @@ input[class^="btn-"]:hover {
 .lead {
     font-size: 1.3rem;
     margin-bottom: 2rem;
+}
+
+.link-center {
+    align-items: center;
 }
 
 .text-center {
