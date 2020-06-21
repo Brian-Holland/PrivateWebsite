@@ -258,11 +258,6 @@ img {
     text-transform: uppercase;
 }
 
-#headshot {
-    height: 250px;
-    width: 250px;
-}
-
 #main-nav {
     display: flex;
     justify-content: space-between;
@@ -389,7 +384,7 @@ img {
 
 #about-a .about-info {
     display: grid;
-    grid-template-areas: "bioimage bio bio";
+    grid-template-areas: "bioimage bio";
     gap: 1.2rem;
 }
 
@@ -401,20 +396,6 @@ img {
     grid-area: bio;
     border-left: 3px solid #ffbc00;
     padding: 0.8rem;
-}
-
-#about-b .progress {
-    overflow: hidden;
-    height: 20px;
-    background: #ccc;
-    border-radius: 5px;
-    margin-bottom: 0.7rem;
-}
-#about-b .progress div {
-    height: 100%;
-    color: #fff;
-    text-align: center;
-    background: #ffbc00;
 }
 
 #contact-a .text-fields {
