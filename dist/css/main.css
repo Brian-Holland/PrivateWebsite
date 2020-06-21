@@ -23,6 +23,7 @@
 .btn-light {
     color: #333;
     background-color: #f4f4f4;
+    border-radius: 25px;
 }
 
 .btn-dark {
@@ -39,6 +40,7 @@
     transition: all 0.5s;
     border: none;
     cursor: pointer;
+    border-radius: 25px;
 }
 
 #btn-project:hover {
