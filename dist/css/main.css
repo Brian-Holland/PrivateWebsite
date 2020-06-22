@@ -409,6 +409,7 @@ img {
 
 .resume-ul {
     list-style-type: disc;
+    margin-left: 2.25rem;
 }
 
 .job-ul {
@@ -417,12 +418,10 @@ img {
 
 .skill-ul {
     column-count: 3;
-    margin-left: 2.25rem;
 }
 
 .practice-ul {
     column-count: 2;
-    margin-left: 2.25rem;
 }
 
 #contact-a .text-fields {
