@@ -551,6 +551,10 @@ img {
             "bioimage"
             "bio";
     }
+    .skill-ul,
+    .practice-ul {
+        column-count: 2;
+    }
 
     #contact-a .text-fields {
         grid-template-areas:
