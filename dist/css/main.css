@@ -222,6 +222,10 @@ input[class^="btn-"]:hover {
     margin: 0;
 }
 
+.flex {
+    display: flex;
+}
+
 * {
     margin: 0;
     padding: 0;
@@ -401,6 +405,24 @@ img {
     grid-area: bio;
     border-left: 3px solid #ffbc00;
     padding: 0.8rem;
+}
+
+.resume-ul {
+    list-style-type: disc;
+}
+
+.job-ul {
+    column-count: 3;
+}
+
+.skill-ul {
+    column-count: 3;
+    margin-left: 2.25rem;
+}
+
+.practice-ul {
+    column-count: 2;
+    margin-left: 2.25rem;
 }
 
 #contact-a .text-fields {
