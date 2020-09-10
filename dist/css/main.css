@@ -398,6 +398,8 @@ img {
 
 #about-a .bio-image {
 	grid-area: bioimage;
+	height: 50%;
+	width: 50%;
 }
 
 #about-a .bio {
